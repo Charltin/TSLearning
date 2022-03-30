@@ -14,3 +14,8 @@ var age:number
 
 // 3. var [变量名] = 值
 var gender = 0
+
+// 4. var [变量名]
+var grade 
+// 此时grade的类型是any，默认初始值是undefined
+
