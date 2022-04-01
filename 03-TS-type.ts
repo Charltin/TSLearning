@@ -25,7 +25,7 @@ a = [];
 
 // null和undefined
 let x: number;
-let y = null;
+let y = null; 
 let z = undefined;
 x = y; // 污染了其他类型
 z = y; // null和undefined可以互相赋值
